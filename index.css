@@ -64,7 +64,6 @@ body {
 .post-img {
     width: 100%;
     object-fit: cover;
-    height: 320px;
 }
 
 .post-body {
