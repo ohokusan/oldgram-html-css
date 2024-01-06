@@ -22,6 +22,9 @@ body {
     align-items: center;
     border-bottom: 1px solid #c6c6c6;
     padding: 16px;
+    position: fixed;
+    min-width: 390px;
+    background: white;
 }
 
 .img-logo {
@@ -34,6 +37,7 @@ body {
 }
 
 .feed {
+    padding-top: 70px;
     display: flex;
     flex-wrap: wrap;
 }
